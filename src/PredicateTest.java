@@ -35,6 +35,6 @@ public class PredicateTest {
         //negate
         boolean negResult = checkNotEmpty.negate().test("");
         System.out.println("result is: "+ negResult);
-        
+
     }
 }
